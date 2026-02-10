@@ -1,16 +1,15 @@
-## Hi there 👋
+Jonathan Powell — Junior Data / Operations Analyst
+SQL • Power BI • Excel (PowerQuery) • Python • Operations Analytics
 
-<!--
-**jayprophit/jayprophit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former operations professional pivoting into data analytics, focused on turning real-world operational problems into dashboards, insights, and automation.
 
-Here are some ideas to get you started:
+• Featured projects:-
+  • https://github.com/jayprophit/operations-kpi-dashboard-powerbi
+  • https://github.com/jayprophit/sql-operations-analytics
+  • https://github.com/jayprophit/python-etl-quality-checks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Skills:
+
+• Learning now
+
+• Contact: https://www.linkedin.com/in/jonathan-p-46453b4a/?skipRedirect=true)
