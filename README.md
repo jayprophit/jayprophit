@@ -8,7 +8,7 @@ Former operations professional pivoting into data analytics, focused on turning 
   • https://github.com/jayprophit/sql-operations-analytics
   • https://github.com/jayprophit/python-etl-quality-checks
 
-• Skills:
+• Skills: SQL, Power BI, Excel PQ, Python, pandas
 
 • Learning now
 
