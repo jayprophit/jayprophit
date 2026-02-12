@@ -12,4 +12,4 @@ Former operations professional pivoting into data analytics, focused on turning 
 
 • What i'm learning now: (Azure fundamentals/ Linux basics/ DAX)
 
-• Contact: https://www.linkedin.com/in/jonathan-p-46453b4a/?skipRedirect=true)
+• Contact: https://www.linkedin.com/in/jonathan-p-46453b4a/?skipRedirect=true
